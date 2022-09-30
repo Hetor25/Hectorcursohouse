@@ -16,5 +16,7 @@ a {
 /* Portada */
 
 .header {
+    text-align: center;
     background-color: tomato;
+    padding: 15px;
 }
